@@ -140,7 +140,7 @@ const Navbar = () => {
                 },
                 textTransform: 'none',
               }}
-               href="tel:+916380738971"
+               href="tel:+916385255152"
             >
               Call Now
             </Button>

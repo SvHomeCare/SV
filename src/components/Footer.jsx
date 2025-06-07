@@ -56,10 +56,10 @@ const Footer = () => {
                 transform: 'translateY(-3px)',
               },
             }}
-             href="tel:+916380738971"
+             href="tel:+916385255152"
             aria-label="Call now"
           >
-            📞 +91 6380738971
+            📞 +91 6385255152
           </Button>
         </Box>
 
