@@ -151,7 +151,7 @@ function Landing() {
     <Typography
       variant="h4"
       align="center"
-      sx={{ fontWeight: 800, mb: 8, color: '#2E3B55' }}
+      sx={{ marginTop: -15,fontWeight: 800, mb: 8, color: '#2E3B55' }}
     >
       Why Choose Us?
     </Typography>
